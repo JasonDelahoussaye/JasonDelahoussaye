@@ -17,7 +17,7 @@
 - <b>HTML CSS Bootstrap</b>
   - [Repository of project showing use of HTML CSS Bootstrap for Sports Store Website mockup](https://github.com/JasonDelahoussaye/Assignment-5-Module-1-Homework-Local-Gym-HTML-CSS-Bootstrap)
   - [Repository showing use of HTML CSS Bootstrap for Nature Park Website mockup](https://github.com/JasonDelahoussaye/Assignment-4-Park-Website-Bootstrap-HTML-CSS)
- - <b>Python Beginner to Advanced including use of Jupyter Notebook</b>
+- <b>Python Beginner to Advanced including use of Jupyter Notebook</b>
   - [Placeholder text](gitbublink)
   - [Placeholder text](githublink)
 
