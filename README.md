@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jason, an <a href="https://www.linkedin.com/in/jason-d-a8614243">IT Professional</a>☺</h1>
 
+<h2>
+    <a href="https://calendly.com/jasondelahoussaye/30min" style="color: green;">Listen to recorded interview question answers {coming soon}</a><br>
+    <a href="https://calendly.com/jasondelahoussaye/30min" style="color: blue;">Schedule an interview</a>
+</h2>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
