@@ -18,8 +18,12 @@
   - [Repository of project showing use of HTML CSS Bootstrap for Sports Store Website mockup](https://github.com/JasonDelahoussaye/Assignment-5-Module-1-Homework-Local-Gym-HTML-CSS-Bootstrap)
   - [Repository showing use of HTML CSS Bootstrap for Nature Park Website mockup](https://github.com/JasonDelahoussaye/Assignment-4-Park-Website-Bootstrap-HTML-CSS)
 - <b>Python Beginner to Advanced including use of Jupyter Notebook</b>
-  - [Placeholder text](gitbublink)
-  - [Placeholder text](githublink)
+  - [Python variable assignment,loops, lists](https://github.com/JasonDelahoussaye/Python-Document-1-Homework-Assignment)
+  - [Functions, Scoping, Data Collections 1 & List Comprehensions](https://github.com/JasonDelahoussaye/Python-Document-2-Homework)
+  - [Data Collections 2 (Dictionaries, Sets) and Importing Modules](https://github.com/JasonDelahoussaye/Python-Document-3-Homework)
+  - [Object-Oriented-Programming (OOP)](https://github.com/JasonDelahoussaye/Python-Document-4-Object-Oriented-Programming-Homework)
+  - [Object_Oriented_Parking_Garage](https://github.com/JasonDelahoussaye/Object_Oriented_Parking_Garage_Assignment-)
+  - [Regular Expressions {REGEX}](https://github.com/JasonDelahoussaye/Regular-Expression-test-homework)
 
 <h2>🤳Connect with me:</h2>
 
