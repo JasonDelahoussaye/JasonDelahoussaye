@@ -13,7 +13,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JasonDelahoussaye/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JasonDelahoussaye/Configuring_On-premises_Active_Directory_within_Azure_VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JasonDelahoussaye/azure-network-protocols)
 - <b>HTML CSS Bootstrap</b>
   - [Repository of project showing use of HTML CSS Bootstrap for Sports Store Website mockup](https://github.com/JasonDelahoussaye/Assignment-5-Module-1-Homework-Local-Gym-HTML-CSS-Bootstrap)
   - [Repository showing use of HTML CSS Bootstrap for Nature Park Website mockup](https://github.com/JasonDelahoussaye/Assignment-4-Park-Website-Bootstrap-HTML-CSS)
