@@ -1,14 +1,15 @@
 <h1>Hi, I'm Jason, an <a href="https://www.linkedin.com/in/jason-d-a8614243">IT Professional</a>☺</h1>
 
 <h4>
-   <a href="https://profile.coursecareers.com/jason.delahoussaye" style="color: green;">View CourseCareers IT Student Profile</a><br> 
-</h4>
+&#127775;<a href="https://profile.coursecareers.com/jason.delahoussaye" style="color: green;">View CourseCareers IT Student Profile</a>&#127775;<br> 
+</h4> 
 <h3>
-    <a href="https://github.com/JasonDelahoussaye/RecordedInterviewQuestionAnswers" style="color: green;">Listen to 50 recorded interview question answers</a><br>
+&#127908;<a href="https://github.com/JasonDelahoussaye/RecordedInterviewQuestionAnswers" style="color: green;">Listen to 50 recorded interview question answers</a>&#127908;<br> 
 </h3>
 <h2>
-    <a href="https://calendly.com/jasondelahoussaye/30min" style="color: blue;">Schedule an interview</a>
+&#x1F449;<a href="https://calendly.com/jasondelahoussaye/30min" style="color: blue;">Schedule an interview</a>&#x1F448;
 </h2>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
