@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jason, an <a href="https://www.linkedin.com/in/jason-d-a8614243">IT Professional</a>☺</h1>
 
 <h4>
-   <a href="https://github.com/JasonDelahoussaye/RecordedInterviewQuestionAnswers" style="color: green;">View CourseCareers IT Student Profile</a><br> 
+   <a href="https://profile.coursecareers.com/jason.delahoussaye" style="color: green;">View CourseCareers IT Student Profile</a><br> 
 </h4>
 <h3>
     <a href="https://github.com/JasonDelahoussaye/RecordedInterviewQuestionAnswers" style="color: green;">Listen to 50 recorded interview question answers</a><br>
