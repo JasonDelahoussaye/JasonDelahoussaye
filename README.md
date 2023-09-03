@@ -7,8 +7,7 @@
 &#127908;<a href="https://github.com/JasonDelahoussaye/RecordedInterviewQuestionAnswers" style="color: green;">Listen to 50 recorded interview question answers</a>&#127908;<br> 
 </h3>
 <h2>
-&#x1F449;<a href="https://calendly.com/jasondelahoussaye/30min" style="color: blue;">Schedule an interview</a>&#x1F448;
-</h2>
+
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
